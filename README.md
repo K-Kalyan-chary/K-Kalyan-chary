@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Kalyanchary
+# 👋 Hi, I'm Kalyan
 
-### 🚀 Gen AI Engineer | Python | FastAPI | LangChain | Google Cloud
+### 🚀 AI | Gen AI Engineer | Python | FastAPI | LangChain | Google Cloud
 
 I'm a **Gen AI Engineer** with **4+ years of experience** building scalable AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and cloud-native architectures.
 
-I specialize in developing intelligent systems using **LangChain**, **Google ADK**, **Vertex AI**, **FastAPI**, and **Google Cloud Platform** for telecom and industrial automation solutions.
+I specialize in developing intelligent systems using **Python** **LangChain**, **Google ADK**, **Vertex AI**, **FastAPI**, and **Google Cloud Platform** for telecom and industrial automation solutions.
 
 ---
 
@@ -20,8 +20,8 @@ I specialize in developing intelligent systems using **LangChain**, **Google ADK
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kalyan-chary-katakam-b6550b198)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:kalyanchary140@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
 ---
@@ -86,16 +86,6 @@ Real-time factory monitoring using MQTT, Redis and Python.
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
 ### 💡 Quote
 
-> *"Building intelligent systems that solve real-world problems with AI."*
+> *"🚀Building intelligent systems that solve real-world problems with AI."*
